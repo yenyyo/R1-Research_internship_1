@@ -1,0 +1,28 @@
+# Include requirements.txt file
+
+# cugraph must be installed in a specific way. Please refer to https://docs.rapids.ai/install for your specific installation
+# cugraph
+# cudf
+# Additional packages from NVIDIA's PyPI
+--extra-index-url=https://pypi.nvidia.com \
+cudf-cu12==24.2.* 
+dask-cudf-cu12==24.2.* 
+cuml-cu12==24.2.* 
+cugraph-cu12==24.2.* 
+cuspatial-cu12==24.2.* 
+cuproj-cu12==24.2.* 
+cuxfilter-cu12==24.2.* 
+cucim-cu12==24.2.* 
+pylibraft-cu12==24.2.* 
+raft-dask-cu12==24.2.*
+
+
+matplotlib
+seaborn
+numpy
+
+# you can install one or the other (or both)
+faiss-cpu 
+faiss-gpu
+anndata
+

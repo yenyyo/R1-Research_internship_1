@@ -1,0 +1,44 @@
+March 21st 2024
+
+
+tasks:
+0. Create matrix (format) get rid of sequences that only appear once
+1. Filtering the data (public sequences > x) x = [4,6,10] -- linux cmd
+2. run faiss -> module info obtained
+3. module - tcr matrix TCR1 =[0,0,0,1,0,0,0,0]
+4. Association rules
+
+   1. {modulex -> HLA-type}
+
+   2. modules in each person
+    
+    {person1 -> module1}
+    {person1 -> module2}
+    {person1 -> module3} 
+
+    {person2 -> module1}
+    {person2 -> module2}
+    {person2 -> modulex} <-- try and check for module3 ??
+
+   3. look up database for {module -> disease} 
+
+     prep work : [TCR -> EPITOPE] + [EPITOPE -> DISEASE] --> [TCR -> DISEASE]
+ 
+    {module1 -> DISEASE}
+
+
+
+need:
+dataset x2 (look into) + metadata (patient info)
+linux cmd
+
+
+do:
+good comments
+aux fuctions on script -- make sure to comment in methods
+ultimately it should run on jupyter
+
+
+algorithms:
+apriori
+eclat
