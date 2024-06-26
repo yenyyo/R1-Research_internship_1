@@ -195,15 +195,14 @@ def apply_kmeans_clustering(cluster_data, n_clusters=2, plots_per_row=5):
     plt.tight_layout()
     plt.show()
 
-
-"""
-function recieves a cluster_data parameter:
-This contains information of sizes and percentages for each of the clusters
-Its the return value of graph_clusters_subplt
-
-It applies dbscan (density based clustering) clustering to each of the plots
-"""
 def apply_dbscan_clustering(cluster_data, eps=0.05, min_samples=5, num_clusters=2):
+    """
+    function recieves a cluster_data parameter:
+    This contains information of sizes and percentages for each of the clusters
+    Its the return value of graph_clusters_subplt
+
+    It applies dbscan (density based clustering) clustering to each of the plots
+    """
     # Limit the number of clusters to the specified value
     selected_clusters = list(cluster_data.items())[:num_clusters]
 
@@ -379,6 +378,7 @@ def plot_clusters(cluster_data, interesting_clusters, plots_per_row=5, y_axis_la
     plt.show()
 
 def plot_predictions(gmm_results, n_columns=5):
+    
     num_plots = len(gmm_results)  # Number of plots
     cols = n_columns  # Number of columns in the subplot grid
     rows = (num_plots + 1) // cols  # Calculate the number of rows needed
