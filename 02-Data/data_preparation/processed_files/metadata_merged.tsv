@@ -1,0 +1,667 @@
+sample_name	species	locus	product_subtype	hla_class_i	hla_class_ii	sample_amount_ng	sample_cells_mass_estimate	counting_method	primer_set	sample_id	Age	Biological Sex	Ethnic Group	Racial Group	Virus Diseases
+P00030	Human	TCRB	Deep			1165.71997	179341.0	v2	Human-TCRB-PD1x	30	39 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00061	Human	TCRB	Deep			1096.12	168633.0	v2	Human-TCRB-PD1x	61	36 Years	Male	Unknown Ethnicity	Unknown racial group	
+P00127	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	127	54 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00033	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	33		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00175	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	175	30 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00078	Human	TCRB	Deep			745.159973	114639.0	v2	Human-TCRB-PD1x	78	35 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00173	Human	TCRB	Deep			1127.88	173520.0	v2	Human-TCRB-PD1x	173	42 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00069	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	69	30 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00093	Human	TCRB	Deep			862.039978	132621.0	v2	Human-TCRB-PD1x	93	06 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00092	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	92	10 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00121	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	121	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00024	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	24	38 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00042	Human	TCRB	Deep			976.76001	150270.0	v2	Human-TCRB-PD1x	42	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00167	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	167	25 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00160	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	160	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00161	Human	TCRB	Deep					v2	Human-TCRB-PD1x	161	33 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00040	Human	TCRB	Deep					v2	Human-TCRB-PD1x	40	51 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00036	Human	TCRB	Deep			1075.56006	165470.0	v2	Human-TCRB-PD1x	36	53 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00075	Human	TCRB	Deep			3100.80005	477046.0	v2	Human-TCRB-PD1x	75	27 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00126	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	126	23 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00080	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	80		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00198	Human	TCRB	Deep			646.679993	99489.0	v2	Human-TCRB-PD1x	198	21 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00007	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	7		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00064	Human	TCRB	Deep			864.840027	133052.0	v2	Human-TCRB-PD1x	64		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00088	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	88		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00058	Human	TCRB	Deep			923.0	142000.0	v2	Human-TCRB-PD1x	58		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00163	Human	TCRB	Deep			843.559998	129778.0	v2	Human-TCRB-PD1x	163	26 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00021	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	21	29 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00195	Human	TCRB	Deep			3600.95996	553993.0	v2	Human-TCRB-PD1x	195	21 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00105	Human	TCRB	Deep					v2	Human-TCRB-PD1x	105		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00015	Human	TCRB	UltraDeep			1277.47998	196535.0	v2	Human-TCRB-PD1x	15	01 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus -
+P00102	Human	TCRB	Deep			1033.64001	159021.0	v2	Human-TCRB-PD1x	102		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00199	Human	TCRB	Deep					v2	Human-TCRB-PD1x	199	50 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00051	Human	TCRB	Deep			1069.07996	164473.0	v2	Human-TCRB-PD1x	51	40 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00048	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	48	35 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00098	Human	TCRB	Deep			3168.95996	487532.0	v2	Human-TCRB-PD1x	98	44 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00083	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	83	33 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00076	Human	TCRB	Deep					v1	Human-TCRB-PD1x	76	48 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00087	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	87	46 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00162	Human	TCRB	Deep			1001.96002	154147.0	v2	Human-TCRB-PD1x	162	42 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus -
+P00191	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	191	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00146	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	146	07 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00106	Human	TCRB	Deep			740.039978	113852.0	v2	Human-TCRB-PD1x	106		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00090	Human	TCRB	Deep			948.52002	145926.0	v2	Human-TCRB-PD1x	90	27 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00137	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	137	48 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00115	Human	TCRB	Deep					v2	Human-TCRB-PD1x	115	42 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00027	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	27	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00037	Human	TCRB	Deep			887.159973	136486.0	v2	Human-TCRB-PD1x	37	29 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00186	Human	TCRB	Deep			634.200012	97569.0	v2	Human-TCRB-PD1x	186	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00178	Human	TCRB	UltraDeep			1253.07996	192781.0	v2	Human-TCRB-PD1x	178	48 Years	Female	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00089	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	89	51 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00029	Human	TCRB	Deep					v2	Human-TCRB-PD1x	29	37 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00096	Human	TCRB	Deep					v2	Human-TCRB-PD1x	96		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00071	Human	TCRB	Deep					v1	Human-TCRB-PD1x	71		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00057	Human	TCRB	Deep					v2	Human-TCRB-PD1x	57	47 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00159	Human	TCRB	Deep					v2	Human-TCRB-PD1x	159	27 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00063	Human	TCRB	Deep					v1	Human-TCRB-PD1x	63	37 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00138	Human	TCRB	Deep			858.359985	132055.0	v2	Human-TCRB-PD1x	138	48 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00019	Human	TCRB	Deep			934.359985	143747.0	v2	Human-TCRB-PD1x	19	55 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00124	Human	TCRB	Deep			3601.91992	554141.0	v2	Human-TCRB-PD1x	124	08 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00194	Human	TCRB	Deep			1116.28003	171735.0	v2	Human-TCRB-PD1x	194	25 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00085	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	85		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00113	Human	TCRB	Deep			919.799988	141507.0	v2	Human-TCRB-PD1x	113	61 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00072	Human	TCRB	Deep			1088.76001	167501.0	v2	Human-TCRB-PD1x	72		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00097	Human	TCRB	Deep			1238.68005	190566.0	v2	Human-TCRB-PD1x	97	24 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00182	Human	TCRB	Deep			953.799988	146738.0	v2	Human-TCRB-PD1x	182	45 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00050	Human	TCRB	Deep			855.0	131538.0	v2	Human-TCRB-PD1x	50		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00066	Human	TCRB	Deep			1129.64001	173790.0	v2	Human-TCRB-PD1x	66	45 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00149	Human	TCRB	Deep			990.76001	152424.0	v2	Human-TCRB-PD1x	149	32 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00017	Human	TCRB	UltraDeep			1736.92004	267218.0	v2	Human-TCRB-PD1x	17	22 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00166	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	166	54 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00169	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	169	19 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00052	Human	TCRB	Deep					v2	Human-TCRB-PD1x	52		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00044	Human	TCRB	Deep			932.119995	143403.0	v2	Human-TCRB-PD1x	44		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00176	Human	TCRB	Deep			2123.80005	326738.0	v2	Human-TCRB-PD1x	176	10 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00002	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	2	41 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00067	Human	TCRB	Deep			1558.83997	239821.0	v2	Human-TCRB-PD1x	67	25 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00174	Human	TCRB	Deep			1071.07996	164781.0	v2	Human-TCRB-PD1x	174	56 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00043	Human	TCRB	Deep					v2	Human-TCRB-PD1x	43		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00132	Human	TCRB	Deep					v1	Human-TCRB-PD1x	132	55 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00164	Human	TCRB	Deep			1041.71997	160264.0	v2	Human-TCRB-PD1x	164	49 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00008	Human	TCRB	Deep					v1	Human-TCRB-PD1x	8	32 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00143	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	143		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00079	Human	TCRB	Deep			942.679993	145027.0	v2	Human-TCRB-PD1x	79		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00062	Human	TCRB	Deep			1095.71997	168572.0	v2	Human-TCRB-PD1x	62	32 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00041	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	41	29 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00012	Human	TCRB	Deep					v2	Human-TCRB-PD1x	12	33 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00152	Human	TCRB	UltraDeep			1285.88	197827.0	v2	Human-TCRB-PD1x	152	47 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00100	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	100		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00189	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	189	31 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00028	Human	TCRB	Deep			1180.76001	181655.0	v2	Human-TCRB-PD1x	28		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00032	Human	TCRB	Deep			1069.07996	164473.0	v2	Human-TCRB-PD1x	32	26 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00170	Human	TCRB	Deep			882.679993	135796.0	v2	Human-TCRB-PD1x	170	15 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00046	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	46	21 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00065	Human	TCRB	Deep			915.47998	140843.0	v2	Human-TCRB-PD1x	65	43 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00180	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	180	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00193	Human	TCRB	Deep			1385.0	213076.0	v2	Human-TCRB-PD1x	193	22 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00023	Human	TCRB	Deep			1198.43994	184375.0	v2	Human-TCRB-PD1x	23	10 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00150	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	150	29 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00187	Human	TCRB	Deep					v2	Human-TCRB-PD1x	187	28 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00151	Human	TCRB	Deep			2940.47998	452381.0	v2	Human-TCRB-PD1x	151	38 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00049	Human	TCRB	Deep					v1	Human-TCRB-PD1x	49		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00185	Human	TCRB	Deep			919.0	141384.0	v2	Human-TCRB-PD1x	185	16 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00060	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	60	32 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00135	Human	TCRB	Deep					v2	Human-TCRB-PD1x	135	62 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00055	Human	TCRB	Deep			1081.0	166307.0	v2	Human-TCRB-PD1x	55	27 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00128	Human	TCRB	Deep					v2	Human-TCRB-PD1x	128	41 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00074	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	74	48 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00006	Human	TCRB	Deep			2214.28003	340658.0	v2	Human-TCRB-PD1x	6	37 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00020	Human	TCRB	Deep			1642.56006	252701.0	v2	Human-TCRB-PD1x	20	32 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00197	Human	TCRB	Deep					v1	Human-TCRB-PD1x	197	53 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00122	Human	TCRB	Deep					v2	Human-TCRB-PD1x	122	28 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00016	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	16	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00142	Human	TCRB	Deep					v2	Human-TCRB-PD1x	142	62 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00141	Human	TCRB	Deep			1268.83997	195206.0	v2	Human-TCRB-PD1x	141	39 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00084	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	84		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00045	Human	TCRB	Deep			1158.19995	178184.0	v2	Human-TCRB-PD1x	45	31 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00001	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	1	55 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00140	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	140	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00117	Human	TCRB	Deep					v2	Human-TCRB-PD1x	117	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00094	Human	TCRB	Deep					v2	Human-TCRB-PD1x	94	13 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00158	Human	TCRB	Deep					v1	Human-TCRB-PD1x	158	17 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00005	Human	TCRB	Deep					v1	Human-TCRB-PD1x	5	27 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00145	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	145	38 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00034	Human	TCRB	Deep					v1	Human-TCRB-PD1x	34		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00153	Human	TCRB	Deep					v2	Human-TCRB-PD1x	153	42 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00109	Human	TCRB	Deep					v2	Human-TCRB-PD1x	109	42 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00144	Human	TCRB	Deep					v2	Human-TCRB-PD1x	144	46 Years	Male	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00133	Human	TCRB	Deep					v1	Human-TCRB-PD1x	133	46 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00104	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	104	29 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00013	Human	TCRB	Deep			1099.64001	169175.0	v2	Human-TCRB-PD1x	13	23 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00039	Human	TCRB	Deep			937.960022	144301.0	v2	Human-TCRB-PD1x	39		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00101	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	101	11 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00107	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	107		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00025	Human	TCRB	Deep			1138.04004	175083.0	v2	Human-TCRB-PD1x	25		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00192	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	192	36 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00059	Human	TCRB	Deep			1392.28003	214196.0	v2	Human-TCRB-PD1x	59		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00010	Human	TCRB	Deep					v2	Human-TCRB-PD1x	10		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00095	Human	TCRB	UltraDeep			1295.56006	199316.0	v2	Human-TCRB-PD1x	95	54 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00003	Human	TCRB	Deep					v2	Human-TCRB-PD1x	3	21 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00073	Human	TCRB	Deep			2074.28003	319120.0	v2	Human-TCRB-PD1x	73		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00018	Human	TCRB	Deep					v1	Human-TCRB-PD1x	18	30 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00110	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	110		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00004	Human	TCRB	Deep			1101.56006	169470.0	v2	Human-TCRB-PD1x	4	45 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00183	Human	TCRB	Deep					v2	Human-TCRB-PD1x	183	18 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00026	Human	TCRB	Deep			1119.0	172153.0	v2	Human-TCRB-PD1x	26	26 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00056	Human	TCRB	Deep					v2	Human-TCRB-PD1x	56	54 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00184	Human	TCRB	Deep			1605.07996	246935.0	v2	Human-TCRB-PD1x	184	40 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00014	Human	TCRB	UltraDeep			1866.52002	287156.0	v2	Human-TCRB-PD1x	14	35 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00068	Human	TCRB	Deep			1085.88	167058.0	v2	Human-TCRB-PD1x	68		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00114	Human	TCRB	Deep			944.919983	145372.0	v2	Human-TCRB-PD1x	114		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00009	Human	TCRB	Deep			1211.07996	186319.0	v2	Human-TCRB-PD1x	9	44 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00129	Human	TCRB	Deep					v2	Human-TCRB-PD1x	129	60 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00147	Human	TCRB	Deep					v2	Human-TCRB-PD1x	147	39 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00171	Human	TCRB	Deep					v2	Human-TCRB-PD1x	171	15 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00165	Human	TCRB	Deep					v2	Human-TCRB-PD1x	165		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00081	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	81	27 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00054	Human	TCRB	Deep			1005.08002	154627.0	v2	Human-TCRB-PD1x	54	49 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00131	Human	TCRB	Deep					v2	Human-TCRB-PD1x	131		Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00116	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	116	38 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00155	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	155		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00179	Human	TCRB	Deep			1381.40002	212523.0	v2	Human-TCRB-PD1x	179	42 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00172	Human	TCRB	Deep			828.76001	127501.0	v2	Human-TCRB-PD1x	172	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00190	Human	TCRB	Deep					v2	Human-TCRB-PD1x	190	50 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00156	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	156		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00196	Human	TCRB	Deep			1251.16003	192486.0	v2	Human-TCRB-PD1x	196	48 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00125	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	125	39 Years	Male	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00077	Human	TCRB	Deep			1074.76001	165347.0	v2	Human-TCRB-PD1x	77		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00148	Human	TCRB	Deep					v1	Human-TCRB-PD1x	148	42 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00181	Human	TCRB	Deep			990.440002	152375.0	v2	Human-TCRB-PD1x	181	37 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00011	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	11	32 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00047	Human	TCRB	Deep			1102.43994	169606.0	v2	Human-TCRB-PD1x	47		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00035	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	35	51 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00031	Human	TCRB	Deep			1228.76001	189040.0	v2	Human-TCRB-PD1x	31	37 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00119	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	119	46 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00053	Human	TCRB	Deep					v2	Human-TCRB-PD1x	53	44 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00134	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	134	28 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00154	Human	TCRB	Deep			882.440002	135760.0	v2	Human-TCRB-PD1x	154	46 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00168	Human	TCRB	Deep			1172.52002	180387.0	v2	Human-TCRB-PD1x	168	44 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00099	Human	TCRB	Deep			1022.52002	157310.0	v2	Human-TCRB-PD1x	99		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00157	Human	TCRB	Deep					v1	Human-TCRB-PD1x	157	55 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00120	Human	TCRB	Deep					v2	Human-TCRB-PD1x	120	59 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00139	Human	TCRB	Deep					v2	Human-TCRB-PD1x	139	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00188	Human	TCRB	Deep			1563.40002	240523.0	v2	Human-TCRB-PD1x	188	38 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00200	Human	TCRB	Deep			1078.76001	165963.0	v2	Human-TCRB-PD1x	200	66 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00038	Human	TCRB	Deep			903.640015	139021.0	v2	Human-TCRB-PD1x	38		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00091	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	91	14 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00177	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	177	25 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00070	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	70		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00118	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	118	26 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00130	Human	TCRB	Deep					v2	Human-TCRB-PD1x	130	42 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00123	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	123	48 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00136	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	136	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00111	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	111	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00108	Human	TCRB	Deep					v2	Human-TCRB-PD1x	108		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00022	Human	TCRB	Deep			1069.88	164596.0	v2	Human-TCRB-PD1x	22	38 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00103	Human	TCRB	Deep			1003.88	154443.0	v2	Human-TCRB-PD1x	103	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00112	Human	TCRB	Deep			1873.64001	288252.0	v2	Human-TCRB-PD1x	112	39 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00086	Human	TCRB	Deep					v1	Human-TCRB-PD1x	86		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00463	Human	TCRB	Deep					v2	Human-TCRB-PD1x	463	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00531	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	531	44 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00571	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	571	43 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00424	Human	TCRB	Deep					v2	Human-TCRB-PD1x	424	43 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00477	Human	TCRB	Deep					v1	Human-TCRB-PD1x	477	38 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00601	Human	TCRB	Deep			2604.47998	400689.0	v2	Human-TCRB-PD1x	601			Unknown Ethnicity	Unknown racial group	
+P00534	Human	TCRB	Deep			1122.68005	172720.0	v2	Human-TCRB-PD1x	534	23 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00629	Human	TCRB	Deep					v1	Human-TCRB-PD1x	629	15 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00441	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	441	40 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00503	Human	TCRB	Deep					v2	Human-TCRB-PD1x	503	48 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00507	Human	TCRB	Deep			1108.76001	170578.0	v2	Human-TCRB-PD1x	507	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00520	Human	TCRB	Deep					v1	Human-TCRB-PD1x	520	24 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00644	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	644	47 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00444	Human	TCRB	Deep					v1	Human-TCRB-PD1x	444		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00529	Human	TCRB	Deep					v1	Human-TCRB-PD1x	529	20 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00483	Human	TCRB	Deep					v1	Human-TCRB-PD1x	483	49 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00536	Human	TCRB	Deep					v2	Human-TCRB-PD1x	536	48 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00476	Human	TCRB	Deep					v2	Human-TCRB-PD1x	476	23 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00538	Human	TCRB	UltraDeep			1189.23999	182959.0	v2	Human-TCRB-PD1x	538	45 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00578	Human	TCRB	Deep					v1	Human-TCRB-PD1x	578	49 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00430	Human	TCRB	Deep					v2	Human-TCRB-PD1x	430	48 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00457	Human	TCRB	Deep					v2	Human-TCRB-PD1x	457	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00528	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	528	70 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00478	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	478	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00432	Human	TCRB	Deep			691.880005	106443.0	v2	Human-TCRB-PD1x	432	23 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00480	Human	TCRB	Deep			892.840027	137360.0	v2	Human-TCRB-PD1x	480	43 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00423	Human	TCRB	Deep			982.76001	151193.0	v2	Human-TCRB-PD1x	423	03 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00607	Human	TCRB	UltraDeep			1290.59998	198553.0	v2	Human-TCRB-PD1x	607	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00450	Human	TCRB	Deep					v2	Human-TCRB-PD1x	450	43 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00653	Human	TCRB	Deep			1059.88	163058.0	v2	Human-TCRB-PD1x	653	51 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00576	Human	TCRB	Deep					v2	Human-TCRB-PD1x	576	57 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00608	Human	TCRB	Deep					v2	Human-TCRB-PD1x	608	63 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00414	Human	TCRB	Deep			1393.80005	214430.0	v2	Human-TCRB-PD1x	414	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00546	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	546	46 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00620	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	620	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00466	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	466	31 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00663	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	663			Unknown Ethnicity	Unknown racial group	
+P00502	Human	TCRB	Deep			1138.12	175095.0	v2	Human-TCRB-PD1x	502	49 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00595	Human	TCRB	Deep					v2	Human-TCRB-PD1x	595	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00589	Human	TCRB	Deep			3608.63989	555175.0	v2	Human-TCRB-PD1x	589	21 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00651	Human	TCRB	UltraDeep			2003.07996	308166.0	v2	Human-TCRB-PD1x	651	47 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00508	Human	TCRB	Deep					v2	Human-TCRB-PD1x	508	48 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00646	Human	TCRB	UltraDeep			1282.43994	197298.0	v2	Human-TCRB-PD1x	646	06 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00543	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	543	55 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00491	Human	TCRB	UltraDeep			1286.04004	197852.0	v2	Human-TCRB-PD1x	491	43 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00407	Human	TCRB	Deep					v2	Human-TCRB-PD1x	407	66 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00451	Human	TCRB	Deep					v2	Human-TCRB-PD1x	451	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00433	Human	TCRB	Deep			721.320007	110972.0	v2	Human-TCRB-PD1x	433		Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00497	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	497	60 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00437	Human	TCRB	Deep					v1	Human-TCRB-PD1x	437	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00500	Human	TCRB	Deep					v2	Human-TCRB-PD1x	500	42 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00501	Human	TCRB	Deep					v2	Human-TCRB-PD1x	501	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00459	Human	TCRB	Deep					v1	Human-TCRB-PD1x	459	66 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00448	Human	TCRB	Deep					v2	Human-TCRB-PD1x	448	52 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00442	Human	TCRB	Deep					v2	Human-TCRB-PD1x	442	26 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00645	Human	TCRB	Deep					v1	Human-TCRB-PD1x	645	44 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00573	Human	TCRB	Deep			1069.95996	164609.0	v2	Human-TCRB-PD1x	573	40 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00456	Human	TCRB	Deep					v2	Human-TCRB-PD1x	456	46 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00584	Human	TCRB	Deep			976.440002	150221.0	v2	Human-TCRB-PD1x	584	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00406	Human	TCRB	Deep			1107.40002	170369.0	v2	Human-TCRB-PD1x	406	47 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00558	Human	TCRB	Deep					v1	Human-TCRB-PD1x	558	61 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00443	Human	TCRB	Deep					v2	Human-TCRB-PD1x	443	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00446	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	446	17 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00438	Human	TCRB	Deep					v2	Human-TCRB-PD1x	438	35 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00559	Human	TCRB	Deep					v1	Human-TCRB-PD1x	559	26 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00425	Human	TCRB	Deep			3411.84009	524898.0	v2	Human-TCRB-PD1x	425	18 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00622	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	622	62 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00624	Human	TCRB	Deep					v2	Human-TCRB-PD1x	624			Unknown Ethnicity	Unknown racial group	
+P00484	Human	TCRB	Deep					v2	Human-TCRB-PD1x	484	08 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00435	Human	TCRB	Deep					v2	Human-TCRB-PD1x	435	31 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00467	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	467	48 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00554	Human	TCRB	Deep					v2	Human-TCRB-PD1x	554	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00597	Human	TCRB	Deep					v2	Human-TCRB-PD1x	597			Unknown Ethnicity	Unknown racial group	
+P00609	Human	TCRB	Deep			1167.47998	179612.0	v2	Human-TCRB-PD1x	609	22 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00596	Human	TCRB	Deep					v2	Human-TCRB-PD1x	596			Unknown Ethnicity	Unknown racial group	
+P00619	Human	TCRB	Deep					v2	Human-TCRB-PD1x	619	44 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00524	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	524	49 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00428	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	428	52 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00440	Human	TCRB	Deep			1245.40002	191600.0	v2	Human-TCRB-PD1x	440	44 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00606	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	606	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00577	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	577	59 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00515	Human	TCRB	Deep					v2	Human-TCRB-PD1x	515	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00506	Human	TCRB	Deep			3376.32007	519433.0	v2	Human-TCRB-PD1x	506			Unknown Ethnicity	Unknown racial group	
+P00458	Human	TCRB	Deep					v2	Human-TCRB-PD1x	458	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00481	Human	TCRB	Deep					v1	Human-TCRB-PD1x	481	25 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00614	Human	TCRB	Deep					v1	Human-TCRB-PD1x	614	60 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00518	Human	TCRB	Deep					v1	Human-TCRB-PD1x	518	47 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00479	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	479	35 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00592	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	592			Unknown Ethnicity	Unknown racial group	
+P00447	Human	TCRB	Deep					v1	Human-TCRB-PD1x	447	26 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00593	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	593	23 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00493	Human	TCRB	Deep					v1	Human-TCRB-PD1x	493		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00488	Human	TCRB	Deep					v2	Human-TCRB-PD1x	488	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00550	Human	TCRB	Deep					v2	Human-TCRB-PD1x	550	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00652	Human	TCRB	Deep			1177.47998	181150.0	v2	Human-TCRB-PD1x	652	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00660	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	660			Unknown Ethnicity	Unknown racial group	
+P00656	Human	TCRB	Deep			1094.12	168326.0	v2	Human-TCRB-PD1x	656	43 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00582	Human	TCRB	Deep					v2	Human-TCRB-PD1x	582	35 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00627	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	627			Unknown Ethnicity	Unknown racial group	
+P00562	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	562	57 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00570	Human	TCRB	Deep					v2	Human-TCRB-PD1x	570	42 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00434	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	434		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00547	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	547		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00650	Human	TCRB	UltraDeep			1253.40002	192830.0	v2	Human-TCRB-PD1x	650	51 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00598	Human	TCRB	Deep					v2	Human-TCRB-PD1x	598	60 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00405	Human	TCRB	Deep					v1	Human-TCRB-PD1x	405	40 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00449	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	449	22 Years	Female	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00418	Human	TCRB	Deep			565.880005	87058.0	v2	Human-TCRB-PD1x	418	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00420	Human	TCRB	Deep			3231.36011	497132.0	v2	Human-TCRB-PD1x	420	53 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00564	Human	TCRB	Deep					v2	Human-TCRB-PD1x	564	10 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00626	Human	TCRB	Deep					v2	Human-TCRB-PD1x	626	39 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00409	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	409	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00658	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	658			Unknown Ethnicity	Unknown racial group	
+P00666	Human	TCRB	Deep					v1	Human-TCRB-PD1x	666			Unknown Ethnicity	Unknown racial group	
+P00513	Human	TCRB	Deep					v1	Human-TCRB-PD1x	513	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00642	Human	TCRB	Deep			1272.35999	195747.0	v2	Human-TCRB-PD1x	642	33 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00553	Human	TCRB	Deep					v2	Human-TCRB-PD1x	553	48 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00517	Human	TCRB	Deep					v2	Human-TCRB-PD1x	517	48 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00561	Human	TCRB	Deep					v2	Human-TCRB-PD1x	561	25 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00555	Human	TCRB	Deep					v2	Human-TCRB-PD1x	555	57 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00523	Human	TCRB	Deep					v1	Human-TCRB-PD1x	523	44 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00623	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	623	45 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00591	Human	TCRB	Deep					v2	Human-TCRB-PD1x	591	60 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00504	Human	TCRB	Deep					v1	Human-TCRB-PD1x	504	44 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00602	Human	TCRB	Deep			748.76001	115193.0	v2	Human-TCRB-PD1x	602	52 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00575	Human	TCRB	Deep					v2	Human-TCRB-PD1x	575	42 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00421	Human	TCRB	Deep			1480.83997	227821.0	v2	Human-TCRB-PD1x	421	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00499	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	499	53 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00445	Human	TCRB	Deep					v2	Human-TCRB-PD1x	445	05 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00617	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	617	34 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00605	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	605	43 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00498	Human	TCRB	Deep					v2	Human-TCRB-PD1x	498	60 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00413	Human	TCRB	Deep					v1	Human-TCRB-PD1x	413	58 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00657	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	657	39 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00417	Human	TCRB	Deep					v2	Human-TCRB-PD1x	417	52 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00599	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	599	59 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00647	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	647	45 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00628	Human	TCRB	UltraDeep			1269.71997	195341.0	v2	Human-TCRB-PD1x	628	23 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00638	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	638	30 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00472	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	472	31 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00549	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	549	52 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00566	Human	TCRB	Deep					v2	Human-TCRB-PD1x	566	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00495	Human	TCRB	Deep			2929.91992	450756.0	v2	Human-TCRB-PD1x	495	40 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus -
+P00510	Human	TCRB	Deep					v1	Human-TCRB-PD1x	510	05 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00581	Human	TCRB	Deep					v2	Human-TCRB-PD1x	581	39 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00560	Human	TCRB	Deep					v2	Human-TCRB-PD1x	560	45 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00662	Human	TCRB	UltraDeep			1327.47998	204227.0	v2	Human-TCRB-PD1x	662	34 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00460	Human	TCRB	Deep					v1	Human-TCRB-PD1x	460	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00648	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	648		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00635	Human	TCRB	Deep					v1	Human-TCRB-PD1x	635			Unknown Ethnicity	Unknown racial group	
+P00521	Human	TCRB	Deep					v2	Human-TCRB-PD1x	521	36 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00410	Human	TCRB	Deep			3189.12012	490633.0	v2	Human-TCRB-PD1x	410	63 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00637	Human	TCRB	Deep			1222.52002	188080.0	v2	Human-TCRB-PD1x	637	55 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00567	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	567	59 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus -
+P00473	Human	TCRB	Deep					v2	Human-TCRB-PD1x	473	62 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00485	Human	TCRB	Deep					v2	Human-TCRB-PD1x	485	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00574	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	574	54 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00636	Human	TCRB	UltraDeep			1365.07996	210012.0	v2	Human-TCRB-PD1x	636	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00469	Human	TCRB	Deep					v1	Human-TCRB-PD1x	469	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00486	Human	TCRB	Deep					v2	Human-TCRB-PD1x	486	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00404	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	404	17 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00512	Human	TCRB	Deep					v2	Human-TCRB-PD1x	512	53 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00487	Human	TCRB	Deep			789.0	121384.0	v2	Human-TCRB-PD1x	487	33 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00611	Human	TCRB	Deep					v2	Human-TCRB-PD1x	611	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00530	Human	TCRB	Deep					v2	Human-TCRB-PD1x	530	64 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00427	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	427	47 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00557	Human	TCRB	Deep					v2	Human-TCRB-PD1x	557	48 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00422	Human	TCRB	Deep					v2	Human-TCRB-PD1x	422	21 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00632	Human	TCRB	Deep					v1	Human-TCRB-PD1x	632		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00455	Human	TCRB	Deep			3161.28003	486350.0	v2	Human-TCRB-PD1x	455	63 Years	Female	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00633	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	633			Unknown Ethnicity	Unknown racial group	
+P00532	Human	TCRB	UltraDeep			2443.87988	375981.0	v2	Human-TCRB-PD1x	532	24 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00522	Human	TCRB	Deep					v2	Human-TCRB-PD1x	522	28 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00640	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	640			Unknown Ethnicity	Unknown racial group	
+P00426	Human	TCRB	Deep					v1	Human-TCRB-PD1x	426	54 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00544	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	544	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00585	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	585			Unknown Ethnicity	Unknown racial group	
+P00516	Human	TCRB	Deep					v2	Human-TCRB-PD1x	516		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00649	Human	TCRB	UltraDeep			1260.43994	193913.0	v2	Human-TCRB-PD1x	649	45 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00415	Human	TCRB	Deep			967.47998	148843.0	v2	Human-TCRB-PD1x	415	57 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00586	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	586	34 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00542	Human	TCRB	Deep					v2	Human-TCRB-PD1x	542	58 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00639	Human	TCRB	Deep			1050.04004	161544.0	v2	Human-TCRB-PD1x	639	60 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00634	Human	TCRB	Deep			850.280029	130812.0	v2	Human-TCRB-PD1x	634	02 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00453	Human	TCRB	Deep					v2	Human-TCRB-PD1x	453	62 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00563	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	563	25 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00462	Human	TCRB	Deep					v2	Human-TCRB-PD1x	462	49 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00494	Human	TCRB	Deep					v2	Human-TCRB-PD1x	494	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00454	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	454	13 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00583	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	583			Unknown Ethnicity	Unknown racial group	
+P00610	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	610	48 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00408	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	408	44 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00545	Human	TCRB	Deep					v2	Human-TCRB-PD1x	545	52 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00514	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	514			Unknown Ethnicity	Unknown racial group	
+P00411	Human	TCRB	Deep					v1	Human-TCRB-PD1x	411	46 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00431	Human	TCRB	Deep					v2	Human-TCRB-PD1x	431	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00509	Human	TCRB	Deep			1211.95996	186455.0	v2	Human-TCRB-PD1x	509	47 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00439	Human	TCRB	Deep					v1	Human-TCRB-PD1x	439	22 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00489	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	489	51 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00659	Human	TCRB	Deep			1161.56006	178701.0	v2	Human-TCRB-PD1x	659	56 Years	Male	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00505	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	505	41 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00665	Human	TCRB	Deep			477.160004	73409.0	v2	Human-TCRB-PD1x	665	57 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00537	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	537	60 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00419	Human	TCRB	Deep					v1	Human-TCRB-PD1x	419	23 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus -
+P00604	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	604	53 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00603	Human	TCRB	Deep					v2	Human-TCRB-PD1x	603	57 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00590	Human	TCRB	Deep					v1	Human-TCRB-PD1x	590	48 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00526	Human	TCRB	UltraDeep			1501.71997	231033.0	v2	Human-TCRB-PD1x	526	24 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00569	Human	TCRB	Deep			1192.83997	183513.0	v2	Human-TCRB-PD1x	569	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00625	Human	TCRB	Deep					v2	Human-TCRB-PD1x	625	56 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00667	Human	TCRB	UltraDeep			1303.80005	200584.0	v2	Human-TCRB-PD1x	667			Unknown Ethnicity	Unknown racial group	
+P00551	Human	TCRB	Deep					v2	Human-TCRB-PD1x	551	74 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00621	Human	TCRB	Deep			988.919983	152141.0	v2	Human-TCRB-PD1x	621	45 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00630	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	630			Unknown Ethnicity	Unknown racial group	
+P00496	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	496	50 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00533	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	533	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00468	Human	TCRB	Deep					v1	Human-TCRB-PD1x	468	38 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00436	Human	TCRB	Deep					v2	Human-TCRB-PD1x	436	32 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00412	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	412	56 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00475	Human	TCRB	Deep					v1	Human-TCRB-PD1x	475	34 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00548	Human	TCRB	Deep			594.840027	91513.0	v2	Human-TCRB-PD1x	548	32 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00402	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	402	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00600	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	600	32 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00541	Human	TCRB	Deep					v2	Human-TCRB-PD1x	541	36 Years	Female	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00525	Human	TCRB	UltraDeep			1745.16003	268486.0	v2	Human-TCRB-PD1x	525	53 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00461	Human	TCRB	Deep					v1	Human-TCRB-PD1x	461	45 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00580	Human	TCRB	Deep					v2	Human-TCRB-PD1x	580	54 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00482	Human	TCRB	Deep			645.799988	99353.0	v2	Human-TCRB-PD1x	482	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00416	Human	TCRB	Deep			938.76001	144424.0	v2	Human-TCRB-PD1x	416	50 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00613	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	613	23 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00471	Human	TCRB	Deep					v1	Human-TCRB-PD1x	471		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00429	Human	TCRB	Deep					v1	Human-TCRB-PD1x	429	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00641	Human	TCRB	Deep			1094.04004	168313.0	v2	Human-TCRB-PD1x	641	55 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00470	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	470	30 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00452	Human	TCRB	Deep					v2	Human-TCRB-PD1x	452	43 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00587	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	587	22 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00618	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	618	67 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00568	Human	TCRB	Deep					v2	Human-TCRB-PD1x	568	27 Years	Female	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00565	Human	TCRB	Deep					v2	Human-TCRB-PD1x	565	28 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00556	Human	TCRB	Deep					v2	Human-TCRB-PD1x	556	50 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00668	Human	TCRB	Deep			1134.59998	174553.0	v2	Human-TCRB-PD1x	668	48 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00465	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	465	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00631	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	631	09 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00615	Human	TCRB	Deep					v2	Human-TCRB-PD1x	615	60 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00552	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	552		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00654	Human	TCRB	UltraDeep			1271.23999	195575.0	v2	Human-TCRB-PD1x	654	58 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00403	Human	TCRB	Deep			1077.40002	165753.0	v2	Human-TCRB-PD1x	403	72 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00588	Human	TCRB	Deep					v2	Human-TCRB-PD1x	588			Unknown Ethnicity	Unknown racial group	
+P00474	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	474	07 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00535	Human	TCRB	Deep					v2	Human-TCRB-PD1x	535	71 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00612	Human	TCRB	Deep					v1	Human-TCRB-PD1x	612	60 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00492	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	492	22 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00464	Human	TCRB	Deep					v2	Human-TCRB-PD1x	464	62 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00616	Human	TCRB	Deep			869.400024	133753.0	v2	Human-TCRB-PD1x	616	41 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00540	Human	TCRB	Deep					v2	Human-TCRB-PD1x	540	12 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00661	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	661	28 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00519	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	519	28 Years	Male	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus -
+P00594	Human	TCRB	Deep					v2	Human-TCRB-PD1x	594			Unknown Ethnicity	Unknown racial group	
+P00527	Human	TCRB	UltraDeep			1707.88	262750.0	v2	Human-TCRB-PD1x	527	61 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00511	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	511	35 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00579	Human	TCRB	Deep			786.840027	121052.0	v2	Human-TCRB-PD1x	579	37 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00655	Human	TCRB	Deep			1045.07996	160781.0	v2	Human-TCRB-PD1x	655			Unknown Ethnicity	Unknown racial group	
+P00539	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	539	55 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00490	Human	TCRB	Deep					v2	Human-TCRB-PD1x	490	56 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00643	Human	TCRB	Deep			731.23999	112498.0	v2	Human-TCRB-PD1x	643			Unknown Ethnicity	Unknown racial group	
+P00572	Human	TCRB	Deep					v2	Human-TCRB-PD1x	572	37 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00247	Human	TCRB	Deep					v1	Human-TCRB-PD1x	247	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00204	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	204	32 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00292	Human	TCRB	Deep			1077.80005	165815.0	v2	Human-TCRB-PD1x	292		Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus -
+P00214	Human	TCRB	Deep					v1	Human-TCRB-PD1x	214	25 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00237	Human	TCRB	Deep					v1	Human-TCRB-PD1x	237	61 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00205	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	205	33 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00213	Human	TCRB	Deep					v1	Human-TCRB-PD1x	213	33 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00211	Human	TCRB	Deep					v2	Human-TCRB-PD1x	211	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00309	Human	TCRB	Deep					v2	Human-TCRB-PD1x	309	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00297	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	297	45 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00314	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	314	54 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00256	Human	TCRB	Deep			715.320007	110049.0	v2	Human-TCRB-PD1x	256	58 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00261	Human	TCRB	Deep			1211.0	186307.0	v2	Human-TCRB-PD1x	261	43 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00343	Human	TCRB	Deep			1159.64001	178406.0	v2	Human-TCRB-PD1x	343	50 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00293	Human	TCRB	UltraDeep			1321.40002	203292.0	v2	Human-TCRB-PD1x	293	11 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00388	Human	TCRB	Deep			1039.71997	159956.0	v2	Human-TCRB-PD1x	388	55 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00339	Human	TCRB	Deep			1122.59998	172707.0	v2	Human-TCRB-PD1x	339	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00236	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	236	39 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00316	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	316			Unknown Ethnicity	Unknown racial group	
+P00368	Human	TCRB	Deep					v2	Human-TCRB-PD1x	368	29 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00266	Human	TCRB	Deep					v2	Human-TCRB-PD1x	266		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00332	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	332	02 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00253	Human	TCRB	Deep			933.23999	143575.0	v2	Human-TCRB-PD1x	253	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00322	Human	TCRB	Deep			1579.95996	243070.0	v2	Human-TCRB-PD1x	322	47 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00337	Human	TCRB	Deep			3493.43994	537452.0	v2	Human-TCRB-PD1x	337	40 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00307	Human	TCRB	Deep					v2	Human-TCRB-PD1x	307	14 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00350	Human	TCRB	Deep					v2	Human-TCRB-PD1x	350	41 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00363	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	363	33 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00289	Human	TCRB	Deep					v1	Human-TCRB-PD1x	289	37 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00229	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	229	45 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00249	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	249	46 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00251	Human	TCRB	Deep					v2	Human-TCRB-PD1x	251	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00202	Human	TCRB	Deep			693.719971	106726.0	v2	Human-TCRB-PD1x	202	29 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00206	Human	TCRB	Deep					v1	Human-TCRB-PD1x	206	42 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00366	Human	TCRB	Deep			1087.64001	167329.0	v2	Human-TCRB-PD1x	366		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00383	Human	TCRB	Deep					v2	Human-TCRB-PD1x	383	30 Years	Male	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00260	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	260	54 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00268	Human	TCRB	Deep					v2	Human-TCRB-PD1x	268		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00216	Human	TCRB	Deep					v1	Human-TCRB-PD1x	216	35 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00243	Human	TCRB	Deep					v2	Human-TCRB-PD1x	243	26 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00276	Human	TCRB	Deep					v2	Human-TCRB-PD1x	276	43 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00360	Human	TCRB	Deep					v1	Human-TCRB-PD1x	360		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00281	Human	TCRB	Deep					v1	Human-TCRB-PD1x	281	32 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00394	Human	TCRB	Deep					v2	Human-TCRB-PD1x	394	20 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00385	Human	TCRB	Deep			805.0	123846.0	v2	Human-TCRB-PD1x	385	31 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00282	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	282	37 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00386	Human	TCRB	Deep					v1	Human-TCRB-PD1x	386		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00370	Human	TCRB	Deep			1185.47998	182381.0	v2	Human-TCRB-PD1x	370		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00219	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	219	32 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00242	Human	TCRB	Deep					v2	Human-TCRB-PD1x	242		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00274	Human	TCRB	Deep					v2	Human-TCRB-PD1x	274	35 Years	Female	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus -
+P00348	Human	TCRB	Deep			1158.59998	178246.0	v2	Human-TCRB-PD1x	348	45 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00280	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	280	22 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00299	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	299	27 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00387	Human	TCRB	Deep					v2	Human-TCRB-PD1x	387	37 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00250	Human	TCRB	Deep			2342.19995	360338.0	v2	Human-TCRB-PD1x	250		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00396	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	396	65 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00358	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	358		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00278	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	278	23 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00331	Human	TCRB	Deep			2239.47998	344535.0	v2	Human-TCRB-PD1x	331	57 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00306	Human	TCRB	Deep			770.280029	118504.0	v2	Human-TCRB-PD1x	306	65 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00374	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	374	40 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00269	Human	TCRB	Deep			1120.59998	172399.0	v2	Human-TCRB-PD1x	269	36 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00382	Human	TCRB	Deep			1129.40002	173753.0	v2	Human-TCRB-PD1x	382		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00398	Human	TCRB	Deep					v2	Human-TCRB-PD1x	398	44 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00279	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	279	27 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus -
+P00326	Human	TCRB	Deep					v2	Human-TCRB-PD1x	326	66 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00255	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	255	08 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00390	Human	TCRB	Deep					v1	Human-TCRB-PD1x	390	36 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00265	Human	TCRB	Deep					v2	Human-TCRB-PD1x	265		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00338	Human	TCRB	Deep					v2	Human-TCRB-PD1x	338	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00308	Human	TCRB	Deep					v2	Human-TCRB-PD1x	308	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00290	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	290	55 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00330	Human	TCRB	Deep			1563.95996	240609.0	v2	Human-TCRB-PD1x	330	55 Years	Female	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00215	Human	TCRB	Deep			2619.71997	403033.0	v2	Human-TCRB-PD1x	215	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00244	Human	TCRB	UltraDeep			2268.43994	348990.0	v2	Human-TCRB-PD1x	244	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00303	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	303	42 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00212	Human	TCRB	Deep			1224.92004	188449.0	v2	Human-TCRB-PD1x	212	33 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00241	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	241		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00311	Human	TCRB	Deep					v1	Human-TCRB-PD1x	311		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00312	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	312	26 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00377	Human	TCRB	Deep					v1	Human-TCRB-PD1x	377	53 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00354	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	354	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00259	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	259	25 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00327	Human	TCRB	Deep			1120.76001	172424.0	v2	Human-TCRB-PD1x	327	34 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00392	Human	TCRB	Deep			803.0	123538.0	v2	Human-TCRB-PD1x	392	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00310	Human	TCRB	UltraDeep			1648.19995	253569.0	v2	Human-TCRB-PD1x	310		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00233	Human	TCRB	Deep			2409.3999	370676.0	v2	Human-TCRB-PD1x	233	23 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00342	Human	TCRB	Deep			1080.92004	166295.0	v2	Human-TCRB-PD1x	342	48 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00344	Human	TCRB	Deep			1179.16003	181409.0	v2	Human-TCRB-PD1x	344	24 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00232	Human	TCRB	Deep			894.359985	137593.0	v2	Human-TCRB-PD1x	232	45 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00273	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	273		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00230	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	230	29 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00283	Human	TCRB	Deep			959.960022	147686.0	v2	Human-TCRB-PD1x	283	32 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00353	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	353		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00222	Human	TCRB	Deep					v2	Human-TCRB-PD1x	222		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00272	Human	TCRB	Deep					v2	Human-TCRB-PD1x	272	52 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00228	Human	TCRB	Deep					v2	Human-TCRB-PD1x	228		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00334	Human	TCRB	Deep					v2	Human-TCRB-PD1x	334	47 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00323	Human	TCRB	Deep					v1	Human-TCRB-PD1x	323	35 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00347	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	347	28 Years	Male	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00317	Human	TCRB	Deep			1031.40002	158676.0	v2	Human-TCRB-PD1x	317		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00245	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	245	03 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00225	Human	TCRB	Deep			1171.16003	180178.0	v2	Human-TCRB-PD1x	225	40 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00328	Human	TCRB	Deep					v1	Human-TCRB-PD1x	328	29 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00304	Human	TCRB	Deep			907.960022	139686.0	v2	Human-TCRB-PD1x	304	61 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00264	Human	TCRB	Deep			1702.52002	261926.0	v2	Human-TCRB-PD1x	264	46 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00298	Human	TCRB	Deep			945.0	145384.0	v2	Human-TCRB-PD1x	298	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00240	Human	TCRB	Deep			877.960022	135070.0	v2	Human-TCRB-PD1x	240		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00221	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	221	47 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00320	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	320	08 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus -
+P00201	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	201	09 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00357	Human	TCRB	Deep			2014.68005	309950.0	v2	Human-TCRB-PD1x	357	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00217	Human	TCRB	Deep			1016.59998	156399.0	v2	Human-TCRB-PD1x	217		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00319	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	319	42 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00376	Human	TCRB	Deep					v2	Human-TCRB-PD1x	376	36 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00263	Human	TCRB	Deep			1075.23999	165421.0	v2	Human-TCRB-PD1x	263	27 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00397	Human	TCRB	Deep					v1	Human-TCRB-PD1x	397	14 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00324	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	324	71 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00262	Human	TCRB	Deep			1056.43994	162529.0	v2	Human-TCRB-PD1x	262	51 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00373	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	373	65 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00335	Human	TCRB	Deep			1096.76001	168732.0	v2	Human-TCRB-PD1x	335		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00296	Human	TCRB	Deep					v2	Human-TCRB-PD1x	296	33 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00258	Human	TCRB	Deep			1426.92004	219526.0	v2	Human-TCRB-PD1x	258	39 Years	Male	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00235	Human	TCRB	Deep			1182.04004	181852.0	v2	Human-TCRB-PD1x	235	46 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00284	Human	TCRB	Deep			1318.76001	202886.0	v2	Human-TCRB-PD1x	284	32 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00359	Human	TCRB	Deep			3142.08008	483396.0	v2	Human-TCRB-PD1x	359	49 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00378	Human	TCRB	Deep					v1	Human-TCRB-PD1x	378	11 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00345	Human	TCRB	Deep			997.400024	153446.0	v2	Human-TCRB-PD1x	345	65 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00294	Human	TCRB	Deep			1152.83997	177359.0	v2	Human-TCRB-PD1x	294	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00400	Human	TCRB	Deep					v1	Human-TCRB-PD1x	400		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00372	Human	TCRB	Deep			1018.76001	156732.0	v2	Human-TCRB-PD1x	372		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00393	Human	TCRB	Deep					v2	Human-TCRB-PD1x	393	44 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00395	Human	TCRB	Deep			815.47998	125458.0	v2	Human-TCRB-PD1x	395	32 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00362	Human	TCRB	Deep			3417.6001	525784.0	v2	Human-TCRB-PD1x	362	43 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00285	Human	TCRB	Deep			1150.43994	176990.0	v2	Human-TCRB-PD1x	285	35 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00238	Human	TCRB	Deep			1678.92004	258295.0	v2	Human-TCRB-PD1x	238	40 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00226	Human	TCRB	Deep			646.359985	99439.0	v2	Human-TCRB-PD1x	226	50 Years	Female	Hispanic or Latino	Unknown racial group	Cytomegalovirus +
+P00381	Human	TCRB	Deep					v2	Human-TCRB-PD1x	381	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00365	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	365	31 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00254	Human	TCRB	Deep			1021.64001	157175.0	v2	Human-TCRB-PD1x	254	50 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00295	Human	TCRB	Deep					v2	Human-TCRB-PD1x	295	34 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00333	Human	TCRB	Deep			1054.19995	162184.0	v2	Human-TCRB-PD1x	333	58 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00369	Human	TCRB	Deep					v1	Human-TCRB-PD1x	369	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00364	Human	TCRB	Deep					v2	Human-TCRB-PD1x	364		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00291	Human	TCRB	Deep			1089.31995	167587.0	v2	Human-TCRB-PD1x	291	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00270	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	270		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00315	Human	TCRB	Deep					v2	Human-TCRB-PD1x	315	35 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00375	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	375		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00346	Human	TCRB	Deep			1199.0	184461.0	v2	Human-TCRB-PD1x	346	64 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00223	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	223	35 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00361	Human	TCRB	Deep					v2	Human-TCRB-PD1x	361	39 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00367	Human	TCRB	Deep					v1	Human-TCRB-PD1x	367	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00207	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	207	41 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00208	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	208		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00286	Human	TCRB	Deep			920.280029	141581.0	v2	Human-TCRB-PD1x	286	61 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00401	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	401	48 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00356	Human	TCRB	Deep			2975.04004	457698.0	v2	Human-TCRB-PD1x	356		Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00239	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	239	52 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00271	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	271	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00380	Human	TCRB	Deep					v2	Human-TCRB-PD1x	380	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00351	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	351	46 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00371	Human	TCRB	Deep			3146.87988	484135.0	v2	Human-TCRB-PD1x	371	40 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00325	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	325	35 Years	Male	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00275	Human	TCRB	Deep					v2	Human-TCRB-PD1x	275	15 Years	Male	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00329	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	329	51 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00246	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	246	37 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00340	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	340	17 Years	Male	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00352	Human	TCRB	Deep					v2	Human-TCRB-PD1x	352	31 Years	Male	Non-Hispanic or Latino	African Race	Cytomegalovirus +
+P00209	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	209		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00248	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	248	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00287	Human	TCRB	Deep			1087.80005	167353.0	v2	Human-TCRB-PD1x	287	50 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00220	Human	TCRB	Deep			815.880005	125520.0	v2	Human-TCRB-PD1x	220		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00384	Human	TCRB	Deep					v1	Human-TCRB-PD1x	384	33 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00300	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	300	44 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00288	Human	TCRB	Deep			1036.28003	159427.0	v2	Human-TCRB-PD1x	288	53 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00210	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	210	54 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00234	Human	TCRB	UltraDeep			3636.47998	559458.0	v2	Human-TCRB-PD1x	234	41 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00277	Human	TCRB	Deep					v2	Human-TCRB-PD1x	277	22 Years	Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00318	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	318	09 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00252	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	252	24 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00267	Human	TCRB	Deep					v2	Human-TCRB-PD1x	267		Female	Unknown Ethnicity	Unknown racial group	Cytomegalovirus +
+P00257	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	257	47 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00399	Human	TCRB	Deep			1079.47998	166073.0	v2	Human-TCRB-PD1x	399	56 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00336	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	336	18 Years	Male	Non-Hispanic or Latino	Native American or Alaska Native	Cytomegalovirus +
+P00227	Human	TCRB	Deep					v1	Human-TCRB-PD1x	227	19 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00301	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	301	51 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00302	Human	TCRB	UltraDeep			1395.40002	214676.0	v2	Human-TCRB-PD1x	302	32 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00224	Human	TCRB	Deep			871.320007	134049.0	v2	Human-TCRB-PD1x	224	23 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00391	Human	TCRB	UltraDeep			1855.0	285384.0	v2	Human-TCRB-PD1x	391	43 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00355	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	355	21 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00218	Human	TCRB	Deep					v2	Human-TCRB-PD1x	218	30 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00313	Human	TCRB	Deep					v2	Human-TCRB-PD1x	313	32 Years	Male	Unknown Ethnicity	Unknown racial group	Cytomegalovirus -
+P00321	Human	TCRB	UltraDeep					v2	Human-TCRB-PD1x	321	61 Years	Female	Non-Hispanic or Latino	Asian or Pacific Islander	Cytomegalovirus +
+P00203	Human	TCRB	Deep			1198.68005	184412.0	v2	Human-TCRB-PD1x	203	49 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00349	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	349	39 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00379	Human	TCRB	Deep			1802.76001	277347.0	v2	Human-TCRB-PD1x	379	34 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00305	Human	TCRB	Deep					v2	Human-TCRB-PD1x	305	25 Years	Female	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00389	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	389	42 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus +
+P00231	Human	TCRB	Deep					v2	Human-TCRB-PD1x	231	47 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
+P00341	Human	TCRB	Deep			3636.47998	559458.0	v2	Human-TCRB-PD1x	341	46 Years	Male	Non-Hispanic or Latino	Caucasian	Cytomegalovirus -
